@@ -5,3 +5,4 @@ venv/
 .pytest_cache/
 .vscode/
 admin.json        # если файл содержит секретыadmin.json
+admin.json
