@@ -62,7 +62,7 @@
 
 &#x20;   ```bash
 
-&#x20;   git clone https://github.com/Kirill86-33/autotests-SEO-Mama.Zdrav.git
+&#x20;   git clone https://github.com/Kirill86-33/autotests-SEO-Onco.Zdrav.git
 
-&#x20;   cd autotests-SEO-Mama.Zdrav
+&#x20;   cd autotests-SEO-Onco.Zdrav
 
